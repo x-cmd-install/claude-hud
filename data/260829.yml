@@ -1,0 +1,57 @@
+about:
+  description: A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+  license: MIT
+  homepage: 
+  head: 939eb66
+  archived: false
+  latestVersion: v0.8.0
+  collectedAt: 2026-08-29T07:24:34Z
+timeline:
+  created: 2026-01-02
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-18
+popularity:
+  star: 27717
+  watcher: 36
+  fork: 1281
+  release: 18
+  contributor: 102
+  pullRequest: 178
+  issue: 269
+language:
+  JavaScript: 672041
+  TypeScript: 363464
+totalLine: 1035505
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 4
+    mergedPR: 19
+    openPR: 1
+    closedIssue: 13
+    openIssue: 0
+    commit: 44
+  last90d:
+    since: 2026-05-31
+    release: 15
+    mergedPR: 80
+    openPR: 1
+    closedIssue: 45
+    openIssue: 0
+    commit: 141
+  last180d:
+    since: 2026-03-02
+    release: 18
+    mergedPR: 219
+    openPR: 1
+    closedIssue: 209
+    openIssue: 0
+    commit: 468
+  last360d:
+    since: 2025-09-03
+    release: 18
+    mergedPR: 279
+    openPR: 1
+    closedIssue: 269
+    openIssue: 0
+    commit: 676
