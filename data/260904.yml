@@ -7,13 +7,13 @@ about:
   head: 939eb66
   archived: false
   latestVersion: v0.8.0
-  collectedAt: 2026-09-04T20:07:03Z
+  collectedAt: 2026-09-04T20:34:10Z
 timeline:
   created: 2026-01-02
   lastCommit: 2026-08-28
   lastRelease: 2026-08-18
 popularity:
-  star: 27828
+  star: 27829
   watcher: 40
   fork: 1289
   release: 18
@@ -82,7 +82,7 @@ total:
   commit: 771
 ---
 path: /home/runner/.x-repo/github.com/jarrodwatts/claude-hud
-collectedAt: 2026-09-04T20:07:04Z
+collectedAt: 2026-09-04T20:34:11Z
 loc:
   JavaScript:
     code: 15545
