@@ -5,18 +5,18 @@ about:
   head: 939eb66
   archived: false
   latestVersion: "v0.8.0"
-  collectedAt: 2026-09-07T05:01:15Z
+  collectedAt: 2026-09-07T19:28:57Z
 timeline:
   created: 2026-01-02
   lastCommit: 2026-08-28
   lastRelease: 2026-08-18
 popularity:
-  star: 27858
+  star: 27866
   watcher: 41
-  fork: 1293
+  fork: 1292
   release: 18
   contributor: 101
-  pullRequest: 470
+  pullRequest: 469
   issue: 275
 language:
   JavaScript: 672041
@@ -80,7 +80,7 @@ total:
   commit: 771
 ---
 path: /home/runner/.x-repo/github.com/jarrodwatts/claude-hud
-collectedAt: 2026-09-07T05:01:17Z
+collectedAt: 2026-09-07T19:28:58Z
 loc:
   JavaScript:
     code: 15545
@@ -116,7 +116,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:01:18+00:00
+  collectedAt: 2026-09-07T19:28:59+00:00
   platform:
     darwin/arm64:
       name:  null
