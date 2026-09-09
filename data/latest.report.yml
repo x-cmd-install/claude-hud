@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.0"
   latestRelease: "v0.8.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:12:59Z
+  collectedAt: 2026-09-09T19:17:09Z
 timeline:
   created: 2026-01-02
   lastCommit: 2026-08-28
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-18
   lastPrerelease: 
 popularity:
-  star: 27884
+  star: 27892
   watcher: 41
-  fork: 1294
+  fork: 1295
   release: 18
   contributor: 101
-  pullRequest: 469
+  pullRequest: 470
   issue: 275
 language:
   JavaScript: 672041
@@ -31,7 +31,7 @@ recent:
     since: 2026-08-10
     release: 3
     mergedPR: 14
-    openPR: 12
+    openPR: 13
     closedIssue: 10
     openIssue: 6
     commit: 19
@@ -39,7 +39,7 @@ recent:
     since: 2026-07-11
     release: 10
     mergedPR: 41
-    openPR: 12
+    openPR: 13
     closedIssue: 24
     openIssue: 6
     commit: 72
@@ -47,7 +47,7 @@ recent:
     since: 2026-06-11
     release: 13
     mergedPR: 69
-    openPR: 12
+    openPR: 13
     closedIssue: 36
     openIssue: 6
     commit: 115
@@ -55,7 +55,7 @@ recent:
     since: 2026-03-13
     release: 17
     mergedPR: 198
-    openPR: 12
+    openPR: 13
     closedIssue: 190
     openIssue: 6
     commit: 407
@@ -63,7 +63,7 @@ recent:
     since: 2025-09-14
     release: 18
     mergedPR: 279
-    openPR: 12
+    openPR: 13
     closedIssue: 269
     openIssue: 6
     commit: 676
@@ -71,20 +71,20 @@ recent:
     since: 2024-09-19
     release: 18
     mergedPR: 279
-    openPR: 12
+    openPR: 13
     closedIssue: 269
     openIssue: 6
     commit: 771
 total:
   release: 18
   mergedPR: 279
-  openPR: 12
+  openPR: 13
   closedIssue: 269
   openIssue: 6
   commit: 771
 ---
 path: /home/runner/.x-repo/github.com/jarrodwatts/claude-hud
-collectedAt: 2026-09-09T05:13:00Z
+collectedAt: 2026-09-09T19:17:11Z
 loc:
   JavaScript:
     code: 15545
