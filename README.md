@@ -7,7 +7,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 - **Latest release**: `v0.8.0` (2026-08-18)
 - **Last commit**: 2026-08-28
 - **License**: MIT
-- **Stars**: 27871 · **Forks**: 1293 · **Open issues**: 275 · **Contributors**: 101
+- **Stars**: 27884 · **Forks**: 1294 · **Open issues**: 275 · **Contributors**: 101
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/claude-hud> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:14:58Z._
+_Last regenerated: 2026-09-09T05:13:03Z._
