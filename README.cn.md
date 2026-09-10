@@ -4,7 +4,7 @@
 
 A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
-![claude-hud](https://repo.x-cmd.io/claude-hud.svg)
+![claude-hud](https://repo.x-cmd.io/claude-hud.svg?lang=zh)
 
 ## 安装
 
@@ -21,23 +21,22 @@ x install claude-hud
 
 - **最新版本**: `v0.8.0` (2026-08-18)
 - **最近提交**: 2026-08-28
-- **发布时间**: 2026-08-18T14:20:35Z
 
 ## 流行度
 
-- **Star**: 27,891 · **Fork**: 1,295 · **开放 issue**: 275 · **贡献者**: 101
+- **Star**: 27,898 · **Fork**: 1,296 · **开放 issue**: 276 · **贡献者**: 101
 
 ## 累计统计
 
-- **发布数**: 18 · **已合并 PR**: 279 · **开放 PR**: 13 · **已关闭 issue**: 269 · **开放 issue**: 6 · **提交数**: 771
+- **发布数**: 18 · **已合并 PR**: 279 · **开放 PR**: 13 · **已关闭 issue**: 269 · **开放 issue**: 7 · **提交数**: 771
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 12 | 13 | 9 | 6 | 19 |
-| 90d | 2026-06-12 | 13 | 67 | 13 | 35 | 6 | 115 |
-| 360d | 2025-09-15 | 18 | 279 | 13 | 269 | 6 | 676 |
+| 30d | 2026-08-11 | 3 | 12 | 13 | 9 | 7 | 19 |
+| 90d | 2026-06-12 | 13 | 67 | 13 | 35 | 7 | 115 |
+| 360d | 2025-09-15 | 18 | 279 | 13 | 269 | 7 | 676 |
 
 ## 代码规模
 
@@ -60,4 +59,4 @@ claude-hud 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:59:49Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:51:17Z._
