@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.0"
   latestRelease: "v0.8.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:15:15Z
+  collectedAt: 2026-09-11T04:59:52Z
 timeline:
   created: 2026-01-02
   lastCommit: 2026-08-28
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-18
   lastPrerelease: 
 popularity:
-  star: 27905
+  star: 27911
   watcher: 41
   fork: 1296
   release: 18
@@ -84,7 +84,7 @@ total:
   commit: 771
 ---
 path: /home/runner/.x-repo/github.com/jarrodwatts/claude-hud
-collectedAt: 2026-09-11T00:15:17Z
+collectedAt: 2026-09-11T04:59:54Z
 loc:
   JavaScript:
     code: 15545
