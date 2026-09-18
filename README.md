@@ -36,22 +36,22 @@ Total: **25,394** lines of code across **116** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 28,133 · **Forks**: 1,298 · **Open issues**: 277 · **Contributors**: 101
+- **Stars**: 28,034 · **Forks**: 1,300 · **Open issues**: 280 · **Contributors**: 101
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 279 · **Open PRs**: 15 · **Closed issues**: 270 · **Open issues**: 7 · **Commits**: 771
+- **Releases**: 18 · **Merged PRs**: 279 · **Open PRs**: 17 · **Closed issues**: 270 · **Open issues**: 10 · **Commits**: 771
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 1 | 7 | 15 | 8 | 7 | 10 |
-| last60d | 2026-07-19 | 6 | 27 | 15 | 19 | 7 | 49 |
-| 90d | 2026-06-19 | 11 | 52 | 15 | 28 | 7 | 94 |
-| last180d | 2026-03-21 | 17 | 183 | 15 | 164 | 7 | 364 |
-| 360d | 2025-09-22 | 18 | 279 | 15 | 270 | 7 | 676 |
-| last720d | 2024-09-27 | 18 | 279 | 15 | 270 | 7 | 771 |
+| 30d | 2026-08-19 | 0 | 7 | 16 | 7 | 10 | 10 |
+| last60d | 2026-07-20 | 6 | 24 | 16 | 19 | 10 | 49 |
+| 90d | 2026-06-20 | 10 | 51 | 16 | 28 | 10 | 94 |
+| last180d | 2026-03-22 | 17 | 183 | 17 | 157 | 10 | 364 |
+| 360d | 2025-09-23 | 18 | 279 | 17 | 270 | 10 | 676 |
+| last720d | 2024-09-28 | 18 | 279 | 17 | 270 | 10 | 771 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for claude-hud lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:31:06Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:10:11Z._
