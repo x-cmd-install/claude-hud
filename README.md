@@ -36,7 +36,7 @@ Total: **25,394** lines of code across **116** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 28,075 · **Forks**: 1,302 · **Open issues**: 280 · **Contributors**: 101
+- **Stars**: 28,091 · **Forks**: 1,301 · **Open issues**: 280 · **Contributors**: 101
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **25,394** lines of code across **116** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 5 | 19 | 6 | 10 | 10 |
-| last60d | 2026-07-23 | 4 | 23 | 19 | 15 | 10 | 46 |
-| 90d | 2026-06-23 | 10 | 51 | 19 | 27 | 10 | 94 |
-| last180d | 2026-03-25 | 16 | 180 | 20 | 137 | 10 | 355 |
-| 360d | 2025-09-26 | 18 | 279 | 20 | 270 | 10 | 676 |
-| last720d | 2024-10-01 | 18 | 279 | 20 | 270 | 10 | 771 |
+| 30d | 2026-08-23 | 0 | 4 | 19 | 4 | 10 | 10 |
+| last60d | 2026-07-24 | 4 | 22 | 19 | 15 | 10 | 46 |
+| 90d | 2026-06-24 | 10 | 50 | 19 | 27 | 10 | 94 |
+| last180d | 2026-03-26 | 16 | 179 | 19 | 135 | 10 | 355 |
+| 360d | 2025-09-27 | 18 | 279 | 20 | 270 | 10 | 676 |
+| last720d | 2024-10-02 | 18 | 279 | 20 | 270 | 10 | 771 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for claude-hud lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:16:52Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:19:09Z._
