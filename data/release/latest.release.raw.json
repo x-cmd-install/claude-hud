@@ -40,5 +40,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/jarrodwatts/claude-hud/tarball/v0.11.2",
   "zipball_url": "https://api.github.com/repos/jarrodwatts/claude-hud/zipball/v0.11.2",
-  "body": "\n### Fixed\n- The context bar no longer drops to 0% mid-response behind gateways that write all-zero usage for thinking blocks; it keeps the last real size (#809).\n\n"
+  "body": "\n### Fixed\n- The context bar no longer drops to 0% mid-response behind gateways that write all-zero usage for thinking blocks; it keeps the last real size (#809).\n\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/jarrodwatts/claude-hud/releases/411292097/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
