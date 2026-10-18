@@ -32,26 +32,26 @@ Total: **10,257** lines of code across **97** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.11.3` (2026-10-17)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-18
 
 ## Popularity
 
-- **Stars**: 28,597 · **Forks**: 1,344 · **Open issues**: 292 · **Contributors**: 116
+- **Stars**: 28,616 · **Forks**: 1,367 · **Open issues**: 292 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 320 · **Open PRs**: 0 · **Closed issues**: 292 · **Open issues**: 0 · **Commits**: 850
+- **Releases**: 24 · **Merged PRs**: 321 · **Open PRs**: 0 · **Closed issues**: 292 · **Open issues**: 0 · **Commits**: 851
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 6 | 29 | 0 | 12 | 0 | 79 |
-| last60d | 2026-08-18 | 7 | 48 | 0 | 30 | 0 | 89 |
-| 90d | 2026-07-19 | 12 | 68 | 0 | 41 | 0 | 140 |
-| last180d | 2026-04-20 | 21 | 161 | 0 | 112 | 0 | 315 |
-| 360d | 2025-10-22 | 24 | 320 | 0 | 292 | 0 | 755 |
-| last720d | 2024-10-27 | 24 | 320 | 0 | 292 | 0 | 850 |
+| 30d | 2026-09-18 | 6 | 28 | 0 | 12 | 0 | 80 |
+| last60d | 2026-08-19 | 6 | 49 | 0 | 29 | 0 | 90 |
+| 90d | 2026-07-20 | 12 | 66 | 0 | 41 | 0 | 127 |
+| last180d | 2026-04-21 | 21 | 161 | 0 | 110 | 0 | 289 |
+| 360d | 2025-10-23 | 24 | 321 | 0 | 292 | 0 | 756 |
+| last720d | 2024-10-28 | 24 | 321 | 0 | 292 | 0 | 851 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for claude-hud lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:38:14Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:44:37Z._
