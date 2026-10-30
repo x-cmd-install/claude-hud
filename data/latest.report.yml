@@ -2,99 +2,99 @@ about:
   description: "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
   license: MIT
   homepage: 
-  head: cf95a32
+  head: a235aa9
   archived: false
-  latestVersion: "v0.13.1"
-  latestRelease: "v0.13.1"
+  latestVersion: "v0.14.0"
+  latestRelease: "v0.14.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:11:17Z
+  collectedAt: 2026-10-30T06:03:36Z
 timeline:
   created: 2026-01-02
-  lastCommit: 2026-10-26
-  lastVersion: 2026-10-26
-  lastRelease: 2026-10-26
+  lastCommit: 2026-10-29
+  lastVersion: 2026-10-29
+  lastRelease: 2026-10-29
   lastPrerelease: 
 popularity:
-  star: 28986
+  star: 29014
   watcher: 36
-  fork: 1331
-  release: 28
-  contributor: 119
-  pullRequest: 527
+  fork: 1330
+  release: 29
+  contributor: 120
+  pullRequest: 529
   issue: 298
 language:
-  JavaScript: 261937
-  TypeScript: 208337
-totalBytes: 470274
+  JavaScript: 263346
+  TypeScript: 209292
+totalBytes: 472638
 recent:
   last30d:
-    since: 2026-09-29
-    release: 10
-    mergedPR: 37
+    since: 2026-09-30
+    release: 11
+    mergedPR: 39
     openPR: 0
     closedIssue: 15
-    openIssue: 1
-    commit: 49
+    openIssue: 0
+    commit: 52
   last60d:
-    since: 2026-08-30
-    release: 10
-    mergedPR: 54
+    since: 2026-08-31
+    release: 11
+    mergedPR: 56
     openPR: 0
-    closedIssue: 27
-    openIssue: 1
-    commit: 102
+    closedIssue: 28
+    openIssue: 0
+    commit: 105
   last90d:
-    since: 2026-07-31
-    release: 14
-    mergedPR: 74
+    since: 2026-08-01
+    release: 15
+    mergedPR: 75
     openPR: 0
-    closedIssue: 40
-    openIssue: 1
-    commit: 142
+    closedIssue: 41
+    openIssue: 0
+    commit: 145
   last180d:
-    since: 2026-05-02
-    release: 25
-    mergedPR: 158
+    since: 2026-05-03
+    release: 26
+    mergedPR: 160
     openPR: 0
-    closedIssue: 102
-    openIssue: 1
-    commit: 293
+    closedIssue: 103
+    openIssue: 0
+    commit: 296
   last360d:
-    since: 2025-11-03
-    release: 28
-    mergedPR: 335
+    since: 2025-11-04
+    release: 29
+    mergedPR: 337
     openPR: 0
-    closedIssue: 297
-    openIssue: 1
-    commit: 778
+    closedIssue: 298
+    openIssue: 0
+    commit: 781
   last720d:
-    since: 2024-11-08
-    release: 28
-    mergedPR: 335
+    since: 2024-11-09
+    release: 29
+    mergedPR: 337
     openPR: 0
-    closedIssue: 297
-    openIssue: 1
-    commit: 874
+    closedIssue: 298
+    openIssue: 0
+    commit: 877
 total:
-  release: 28
-  mergedPR: 335
+  release: 29
+  mergedPR: 337
   openPR: 0
-  closedIssue: 297
-  openIssue: 1
-  commit: 874
+  closedIssue: 298
+  openIssue: 0
+  commit: 877
 ---
 path: /home/runner/.x-repo/github.com/jarrodwatts/claude-hud
-collectedAt: 2026-10-29T06:11:19Z
+collectedAt: 2026-10-30T06:03:37Z
 loc:
   JavaScript:
-    code: 5323
+    code: 5342
     comments: 99
-    blanks: 618
+    blanks: 619
     files: 35
   TypeScript:
-    code: 4423
-    comments: 402
-    blanks: 534
+    code: 4437
+    comments: 406
+    blanks: 536
     files: 48
   Json:
     code: 1216
@@ -103,20 +103,20 @@ loc:
     files: 3
   Markdown:
     code: 0
-    comments: 1056
-    blanks: 394
+    comments: 1061
+    blanks: 396
     files: 10
   Text:
     code: 0
-    comments: 475
-    blanks: 123
+    comments: 481
+    blanks: 125
     files: 2
 total:
-  code: 11033
-  comments: 2032
-  blanks: 1669
+  code: 11066
+  comments: 2047
+  blanks: 1676
   files: 98
 ---
 
 ---
-{"id":423758297,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQySeqs4ZQgnZ","tag_name":"v0.13.1","target_commitish":"main","name":"v0.13.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-26T00:45:03Z","updated_at":"2026-10-26T00:45:48Z","published_at":"2026-10-26T00:45:48Z","assets":[],"body":"\n### Fixed\n- Session names, the Claude Code version, output style, effort, model and advisor names, the advisor override, scoped usage labels, failing MCP server names, the auth user, and jj labels no longer cut an emoji or flag in half when they hit their length cap (#830).\n\n","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
+{"id":428381587,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQySeqs4ZiJWT","tag_name":"v0.14.0","target_commitish":"main","name":"v0.14.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-29T20:51:02Z","updated_at":"2026-10-29T20:51:45Z","published_at":"2026-10-29T20:51:45Z","assets":[],"body":"\n### Added\n- `display.showLaunchDir` option. Once Claude moves deeper than `pathLevels` shows, the project path starts with the directory Claude Code was launched in, e.g. `my-repo › src`. Off by default (#835, #836).\n\n"}
