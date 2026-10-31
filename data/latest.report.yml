@@ -2,99 +2,99 @@ about:
   description: "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
   license: MIT
   homepage: 
-  head: a235aa9
+  head: 83e98cf
   archived: false
-  latestVersion: "v0.14.0"
-  latestRelease: "v0.14.0"
+  latestVersion: "v0.14.1"
+  latestRelease: "v0.14.1"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:03:36Z
+  collectedAt: 2026-10-31T05:54:42Z
 timeline:
   created: 2026-01-02
-  lastCommit: 2026-10-29
-  lastVersion: 2026-10-29
-  lastRelease: 2026-10-29
+  lastCommit: 2026-10-30
+  lastVersion: 2026-10-30
+  lastRelease: 2026-10-30
   lastPrerelease: 
 popularity:
-  star: 29014
+  star: 29042
   watcher: 36
-  fork: 1330
-  release: 29
-  contributor: 120
-  pullRequest: 529
-  issue: 298
+  fork: 1331
+  release: 30
+  contributor: 121
+  pullRequest: 532
+  issue: 299
 language:
-  JavaScript: 263346
-  TypeScript: 209292
-totalBytes: 472638
+  JavaScript: 264598
+  TypeScript: 209740
+totalBytes: 474338
 recent:
   last30d:
-    since: 2026-09-30
-    release: 11
-    mergedPR: 39
-    openPR: 0
-    closedIssue: 15
+    since: 2026-10-01
+    release: 12
+    mergedPR: 26
+    openPR: 1
+    closedIssue: 16
     openIssue: 0
-    commit: 52
+    commit: 55
   last60d:
-    since: 2026-08-31
-    release: 11
+    since: 2026-09-01
+    release: 12
     mergedPR: 56
-    openPR: 0
+    openPR: 1
     closedIssue: 28
     openIssue: 0
-    commit: 105
+    commit: 108
   last90d:
-    since: 2026-08-01
-    release: 15
-    mergedPR: 75
-    openPR: 0
+    since: 2026-08-02
+    release: 16
+    mergedPR: 77
+    openPR: 1
     closedIssue: 41
     openIssue: 0
-    commit: 145
+    commit: 148
   last180d:
-    since: 2026-05-03
-    release: 26
-    mergedPR: 160
-    openPR: 0
-    closedIssue: 103
+    since: 2026-05-04
+    release: 27
+    mergedPR: 162
+    openPR: 1
+    closedIssue: 104
     openIssue: 0
-    commit: 296
+    commit: 299
   last360d:
-    since: 2025-11-04
-    release: 29
-    mergedPR: 337
-    openPR: 0
-    closedIssue: 298
+    since: 2025-11-05
+    release: 30
+    mergedPR: 339
+    openPR: 1
+    closedIssue: 299
     openIssue: 0
-    commit: 781
+    commit: 784
   last720d:
-    since: 2024-11-09
-    release: 29
-    mergedPR: 337
-    openPR: 0
-    closedIssue: 298
+    since: 2024-11-10
+    release: 30
+    mergedPR: 339
+    openPR: 1
+    closedIssue: 299
     openIssue: 0
-    commit: 877
+    commit: 880
 total:
-  release: 29
-  mergedPR: 337
-  openPR: 0
-  closedIssue: 298
+  release: 30
+  mergedPR: 339
+  openPR: 1
+  closedIssue: 299
   openIssue: 0
-  commit: 877
+  commit: 880
 ---
 path: /home/runner/.x-repo/github.com/jarrodwatts/claude-hud
-collectedAt: 2026-10-30T06:03:37Z
+collectedAt: 2026-10-31T05:54:44Z
 loc:
   JavaScript:
-    code: 5342
+    code: 5370
     comments: 99
-    blanks: 619
-    files: 35
+    blanks: 623
+    files: 36
   TypeScript:
-    code: 4437
-    comments: 406
-    blanks: 536
+    code: 4441
+    comments: 408
+    blanks: 537
     files: 48
   Json:
     code: 1216
@@ -103,8 +103,8 @@ loc:
     files: 3
   Markdown:
     code: 0
-    comments: 1061
-    blanks: 396
+    comments: 1064
+    blanks: 398
     files: 10
   Text:
     code: 0
@@ -112,11 +112,11 @@ loc:
     blanks: 125
     files: 2
 total:
-  code: 11066
-  comments: 2047
-  blanks: 1676
-  files: 98
+  code: 11098
+  comments: 2052
+  blanks: 1683
+  files: 99
 ---
 
 ---
-{"id":428381587,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQySeqs4ZiJWT","tag_name":"v0.14.0","target_commitish":"main","name":"v0.14.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-29T20:51:02Z","updated_at":"2026-10-29T20:51:45Z","published_at":"2026-10-29T20:51:45Z","assets":[],"body":"\n### Added\n- `display.showLaunchDir` option. Once Claude moves deeper than `pathLevels` shows, the project path starts with the directory Claude Code was launched in, e.g. `my-repo › src`. Off by default (#835, #836).\n\n"}
+{"id":429544996,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQySeqs4ZmlYk","tag_name":"v0.14.1","target_commitish":"main","name":"v0.14.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-30T22:25:00Z","updated_at":"2026-10-30T22:25:46Z","published_at":"2026-10-30T22:25:46Z","assets":[],"body":"\n### Fixed\n- On Windows, Ctrl+click on the project name or a changed file now opens paths with non-ASCII characters, such as `D:\\桌面\\project`. Windows decoded the percent-encoded link with the system code page and opened nothing (#839, #840).\n\n"}

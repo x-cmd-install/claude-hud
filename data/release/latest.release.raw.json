@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/jarrodwatts/claude-hud/releases/428381587",
-  "assets_url": "https://api.github.com/repos/jarrodwatts/claude-hud/releases/428381587/assets",
-  "upload_url": "https://uploads.github.com/repos/jarrodwatts/claude-hud/releases/428381587/assets{?name,label}",
-  "html_url": "https://github.com/jarrodwatts/claude-hud/releases/tag/v0.14.0",
-  "id": 428381587,
+  "url": "https://api.github.com/repos/jarrodwatts/claude-hud/releases/429544996",
+  "assets_url": "https://api.github.com/repos/jarrodwatts/claude-hud/releases/429544996/assets",
+  "upload_url": "https://uploads.github.com/repos/jarrodwatts/claude-hud/releases/429544996/assets{?name,label}",
+  "html_url": "https://github.com/jarrodwatts/claude-hud/releases/tag/v0.14.1",
+  "id": 429544996,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOQySeqs4ZiJWT",
-  "tag_name": "v0.14.0",
+  "node_id": "RE_kwDOQySeqs4ZmlYk",
+  "tag_name": "v0.14.1",
   "target_commitish": "main",
-  "name": "v0.14.0",
+  "name": "v0.14.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-29T20:51:02Z",
-  "updated_at": "2026-10-29T20:51:45Z",
-  "published_at": "2026-10-29T20:51:45Z",
+  "created_at": "2026-10-30T22:25:00Z",
+  "updated_at": "2026-10-30T22:25:46Z",
+  "published_at": "2026-10-30T22:25:46Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/jarrodwatts/claude-hud/tarball/v0.14.0",
-  "zipball_url": "https://api.github.com/repos/jarrodwatts/claude-hud/zipball/v0.14.0",
-  "body": "\n### Added\n- `display.showLaunchDir` option. Once Claude moves deeper than `pathLevels` shows, the project path starts with the directory Claude Code was launched in, e.g. `my-repo › src`. Off by default (#835, #836).\n\n"
+  "tarball_url": "https://api.github.com/repos/jarrodwatts/claude-hud/tarball/v0.14.1",
+  "zipball_url": "https://api.github.com/repos/jarrodwatts/claude-hud/zipball/v0.14.1",
+  "body": "\n### Fixed\n- On Windows, Ctrl+click on the project name or a changed file now opens paths with non-ASCII characters, such as `D:\\桌面\\project`. Windows decoded the percent-encoded link with the system code page and opened nothing (#839, #840).\n\n"
 }
