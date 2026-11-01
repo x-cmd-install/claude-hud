@@ -40,5 +40,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/jarrodwatts/claude-hud/tarball/v0.14.1",
   "zipball_url": "https://api.github.com/repos/jarrodwatts/claude-hud/zipball/v0.14.1",
-  "body": "\n### Fixed\n- On Windows, Ctrl+click on the project name or a changed file now opens paths with non-ASCII characters, such as `D:\\桌面\\project`. Windows decoded the percent-encoded link with the system code page and opened nothing (#839, #840).\n\n"
+  "body": "\n### Fixed\n- On Windows, Ctrl+click on the project name or a changed file now opens paths with non-ASCII characters, such as `D:\\桌面\\project`. Windows decoded the percent-encoded link with the system code page and opened nothing (#839, #840).\n\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/jarrodwatts/claude-hud/releases/429544996/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
