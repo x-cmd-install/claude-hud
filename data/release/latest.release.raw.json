@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/jarrodwatts/claude-hud/releases/429544996",
-  "assets_url": "https://api.github.com/repos/jarrodwatts/claude-hud/releases/429544996/assets",
-  "upload_url": "https://uploads.github.com/repos/jarrodwatts/claude-hud/releases/429544996/assets{?name,label}",
-  "html_url": "https://github.com/jarrodwatts/claude-hud/releases/tag/v0.14.1",
-  "id": 429544996,
+  "url": "https://api.github.com/repos/jarrodwatts/claude-hud/releases/430651884",
+  "assets_url": "https://api.github.com/repos/jarrodwatts/claude-hud/releases/430651884/assets",
+  "upload_url": "https://uploads.github.com/repos/jarrodwatts/claude-hud/releases/430651884/assets{?name,label}",
+  "html_url": "https://github.com/jarrodwatts/claude-hud/releases/tag/v0.14.2",
+  "id": 430651884,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,32 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOQySeqs4ZmlYk",
-  "tag_name": "v0.14.1",
+  "node_id": "RE_kwDOQySeqs4Zqzns",
+  "tag_name": "v0.14.2",
   "target_commitish": "main",
-  "name": "v0.14.1",
+  "name": "v0.14.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-30T22:25:00Z",
-  "updated_at": "2026-10-30T22:25:46Z",
-  "published_at": "2026-10-30T22:25:46Z",
+  "created_at": "2026-11-01T14:53:41Z",
+  "updated_at": "2026-11-01T14:54:30Z",
+  "published_at": "2026-11-01T14:54:30Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/jarrodwatts/claude-hud/tarball/v0.14.1",
-  "zipball_url": "https://api.github.com/repos/jarrodwatts/claude-hud/zipball/v0.14.1",
-  "body": "\n### Fixed\n- On Windows, Ctrl+click on the project name or a changed file now opens paths with non-ASCII characters, such as `D:\\桌面\\project`. Windows decoded the percent-encoded link with the system code page and opened nothing (#839, #840).\n\n",
-  "reactions": {
-    "url": "https://api.github.com/repos/jarrodwatts/claude-hud/releases/429544996/reactions",
-    "total_count": 1,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/jarrodwatts/claude-hud/tarball/v0.14.2",
+  "zipball_url": "https://api.github.com/repos/jarrodwatts/claude-hud/zipball/v0.14.2",
+  "body": "\n### Fixed\n- The HUD now finds the plugin when `CLAUDE_CODE_PLUGIN_CACHE_DIR` moves Claude Code's plugin folder. Before, the status line was empty or ran an old install left in the default location. If you set this variable, run `/claude-hud:setup` again once to refresh the launcher it copied (#838).\n\n"
 }
