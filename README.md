@@ -14,14 +14,14 @@ x install claude-hud
 
 ## Code insight
 
-Total: **13,573** lines of code across **144** files in the top 5 languages.
+Total: **13,587** lines of code across **144** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 8,006 | 469 | 826 | 57 |
-| TypeScript | 4,524 | 465 | 545 | 49 |
+| JavaScript | 8,019 | 469 | 827 | 57 |
+| TypeScript | 4,525 | 467 | 545 | 49 |
 | Json | 1,043 | 0 | 0 | 26 |
-| Markdown | 0 | 780 | 301 | 10 |
+| Markdown | 0 | 783 | 303 | 10 |
 | Text | 0 | 487 | 127 | 2 |
 
 ## Source
@@ -32,26 +32,26 @@ Total: **13,573** lines of code across **144** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.15.0` (2026-11-02)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-20
 
 ## Popularity
 
-- **Stars**: 29,271 · **Forks**: 1,346 · **Open issues**: 306 · **Contributors**: 123
+- **Stars**: 29,278 · **Forks**: 1,346 · **Open issues**: 306 · **Contributors**: 123
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 355 · **Open PRs**: 4 · **Closed issues**: 302 · **Open issues**: 4 · **Commits**: 896
+- **Releases**: 32 · **Merged PRs**: 357 · **Open PRs**: 3 · **Closed issues**: 303 · **Open issues**: 3 · **Commits**: 898
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 7 | 27 | 4 | 7 | 4 | 32 |
-| last60d | 2026-09-21 | 14 | 62 | 4 | 22 | 4 | 124 |
-| 90d | 2026-08-22 | 14 | 81 | 4 | 38 | 4 | 134 |
-| last180d | 2026-05-24 | 29 | 163 | 4 | 86 | 4 | 276 |
-| 360d | 2025-11-25 | 32 | 355 | 4 | 302 | 4 | 800 |
-| last720d | 2024-11-30 | 32 | 355 | 4 | 302 | 4 | 896 |
+| 30d | 2026-10-22 | 6 | 28 | 3 | 8 | 3 | 34 |
+| last60d | 2026-09-22 | 14 | 64 | 3 | 23 | 3 | 126 |
+| 90d | 2026-08-23 | 14 | 82 | 3 | 37 | 3 | 136 |
+| last180d | 2026-05-25 | 29 | 164 | 3 | 87 | 3 | 278 |
+| 360d | 2025-11-26 | 32 | 357 | 3 | 303 | 3 | 802 |
+| last720d | 2024-12-01 | 32 | 357 | 3 | 303 | 3 | 898 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for claude-hud lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:38:23Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:25:33Z._
