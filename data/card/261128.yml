@@ -1,0 +1,121 @@
+about:
+  description: "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+  license: MIT
+  homepage: 
+  head: 5fc08cb
+  archived: false
+  latestVersion: "v0.15.0"
+  latestRelease: "v0.15.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:15:10Z
+timeline:
+  created: 2026-01-02
+  lastCommit: 2026-11-23
+  lastVersion: 2026-11-02
+  lastRelease: 2026-11-02
+  lastPrerelease: 
+popularity:
+  star: 29322
+  watcher: 36
+  fork: 1350
+  release: 32
+  contributor: 123
+  pullRequest: 560
+  issue: 311
+language:
+  JavaScript: 459003
+  TypeScript: 239860
+totalBytes: 698863
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 4
+    mergedPR: 22
+    openPR: 3
+    closedIssue: 7
+    openIssue: 6
+    commit: 25
+  last60d:
+    since: 2026-09-29
+    release: 14
+    mergedPR: 61
+    openPR: 3
+    closedIssue: 23
+    openIssue: 6
+    commit: 128
+  last90d:
+    since: 2026-08-30
+    release: 14
+    mergedPR: 78
+    openPR: 3
+    closedIssue: 35
+    openIssue: 6
+    commit: 128
+  last180d:
+    since: 2026-06-01
+    release: 29
+    mergedPR: 160
+    openPR: 3
+    closedIssue: 80
+    openIssue: 6
+    commit: 269
+  last360d:
+    since: 2025-12-03
+    release: 32
+    mergedPR: 359
+    openPR: 3
+    closedIssue: 305
+    openIssue: 6
+    commit: 804
+  last720d:
+    since: 2024-12-08
+    release: 32
+    mergedPR: 359
+    openPR: 3
+    closedIssue: 305
+    openIssue: 6
+    commit: 900
+total:
+  release: 32
+  mergedPR: 359
+  openPR: 3
+  closedIssue: 305
+  openIssue: 6
+  commit: 900
+---
+path: /home/runner/.x-repo/github.com/jarrodwatts/claude-hud
+collectedAt: 2026-11-28T08:15:11Z
+loc:
+  JavaScript:
+    code: 8025
+    comments: 469
+    blanks: 828
+    files: 57
+  TypeScript:
+    code: 4513
+    comments: 467
+    blanks: 544
+    files: 49
+  Json:
+    code: 1080
+    comments: 0
+    blanks: 0
+    files: 27
+  Markdown:
+    code: 0
+    comments: 786
+    blanks: 305
+    files: 10
+  Text:
+    code: 0
+    comments: 487
+    blanks: 127
+    files: 2
+total:
+  code: 13638
+  comments: 2209
+  blanks: 1804
+  files: 145
+---
+
+---
